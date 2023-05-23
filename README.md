@@ -22,9 +22,11 @@
 
 
 # APP
-## 개발언어 : Flutter
-## 백엔드 : Firebase
-## 데이터 출처 : 공공데이터 포털
+# 개발환경
+- 개발언어 : Dart
+- 프레임워크 : Flutter
+- 백엔드 : Firebase
+- 데이터 출처 : 공공데이터 포털
 
 # Device
 ## 하드웨어구성
