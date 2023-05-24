@@ -1,0 +1,12 @@
+pharm
+pkg_p
+plastic
+vinyl
+tube
+unknown
+portion
+box
+eye
+glass
+capsule
+pill
