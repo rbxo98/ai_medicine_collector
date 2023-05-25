@@ -39,3 +39,6 @@
 # AI 모델링
 - 사용모델 : YoloV8
 + 데이터 출처 : 자체수집 (여수시 보건소 협조)
+
+# 동작 영상
+[![Video Label](http://img.youtube.com/vi/YSK9bSwvHSY/0.jpg)](https://youtu.be/YSK9bSwvHSY)
