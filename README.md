@@ -1,5 +1,5 @@
 # ai_medicine_collector
-## 폐의약품 자동 집하기 (작성중, 개발중)
+## 폐의약품 자동 집하기
 
 #### 개발자
 - APP 박규태 : git(https://github.com/rbxo98)
